@@ -21,6 +21,8 @@ A social media recipe app where users can post their creative spins on pizza, ad
 * Express.js
 * MongoDB
 * Mongoose ODM
+* MongoDB Atlas
+
 
 ## Installation Instructions
 npm, Node.js, Express.js, MongoDB and Mongoose ODM must be installed to run this application locally.
