@@ -11,7 +11,7 @@ A social media recipe app where users can post their creative spins on pizza, ad
 [Contribution](#contribution)  
 
 ## Deployed Application
-
+https://pizza-hunt-dch.herokuapp.com/
 ## Landing Page
 
 
