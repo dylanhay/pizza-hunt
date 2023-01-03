@@ -3,6 +3,12 @@
 ## Description
 A social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments.
 
+## License  
+This application is covered under the following license. Please review the link below for additional information pertaining to the license.
+    
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)  
+https://www.gnu.org/licenses/gpl-3.0
+
 ## Table of Contents
 [Deployed Application](#deployed-application)  
 [Built With](#built-with)  
